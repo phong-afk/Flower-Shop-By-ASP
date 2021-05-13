@@ -5248,30 +5248,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ammbu\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/nguyenthaouyen/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\React\\FlowersShopApp\\webapi\\WebAPI.csproj",
+      "projectUniqueName": "/Users/nguyenthaouyen/Downloads/Flower-Shop-By-ASP/WebAPI/WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Projects\\React\\FlowersShopApp\\webapi\\WebAPI.csproj",
-      "packagesPath": "C:\\Users\\ammbu\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\React\\FlowersShopApp\\webapi\\obj\\",
+      "projectPath": "/Users/nguyenthaouyen/Downloads/Flower-Shop-By-ASP/WebAPI/WebAPI.csproj",
+      "packagesPath": "/Users/nguyenthaouyen/.nuget/packages/",
+      "outputPath": "/Users/nguyenthaouyen/Downloads/Flower-Shop-By-ASP/WebAPI/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ammbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/nguyenthaouyen/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5333,7 +5327,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }
