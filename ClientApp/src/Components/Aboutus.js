@@ -24,24 +24,17 @@ class Aboutus extends Component
                             <img src={img1} alt="flowers" width="100%" className="rounded"></img>
                         </div>
                         <div className="col-sm-6 mt-3">
-                            <p className="h2">Title below</p>
-                            <p className="h6">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                            
-                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            <p className="h2">Chúng Tôi</p>
+                            <p className="h6">luôn cam kết đặt chất lượng hoa luôn tươi mới lên hàng đầu giao cho khách. Với gần 10 năm kinh nghiệm phục vụ trong ngành điện hoa, chúng tôi thấu hiểu được mức độ quan trọng trong công việc của mình là truyền tải đúng và đủ thông điệp của người tặng đến người nhận.
                             </p>
-                            <a href="#" className="btn btn-primary" role="button">Semper</a>
                         </div>
                     </div>
                     <div className="row align-items-center mt-3">
                     <   div className="col-sm-6 mt-3">
-                            <p className="h2">Title below</p>
-                            <p className="h6">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                            
-                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            <p className="h2">Đến với </p>
+                            <p className="h6">chúng tôi bạn sẽ yên tâm về chất lượng phục vụ, chúng tôi cam kết giao hàng đúng thời gian và chất lượng như mong muốn.
+Chúng tôi có nhiều mẫu hoa và sản phẩm hoa tươi đẹp: Bó hoa tươi, Giỏ hoa tươi, Bình hoa, Hoa chậu, Hoa cắt cành, Hoa cao cấp,  Hoa tươi Đà Lạt, Lẵng hoa tươi.
                             </p>
-                            <a href="#" className="btn btn-primary" role="button">Semper</a>
                         </div>
                         <div className="col-sm-6 mt-3">
                             <img src={img2} alt="flowers" width="100%" className="rounded"></img>
